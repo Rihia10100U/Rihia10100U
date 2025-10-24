@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sampurasun👋!, Rifal Hikmatul Akmal
+
+![Rihia10100U](/github-header-banner.png)
 
 <!--
 **Rihia10100U/Rihia10100U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
