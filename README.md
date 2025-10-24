@@ -1,4 +1,4 @@
-## Sampurasun👋!, Rifal Hikmatul Akmal
+### Rifal Hikmatul Akmal
 
 ![Rihia10100U](https://github.com/Rihia10100U/Rihia10100U/blob/0478843035433b2ff1989dc542d2bd3658157020/banner.png)
 
