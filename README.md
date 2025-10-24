@@ -1,6 +1,6 @@
 ## Sampurasun👋!, Rifal Hikmatul Akmal
 
-![Rihia10100U](https://github.com/Rihia10100U/Rihia10100U/blob/3e8226ca4381c20beebc234b84095b5e08aef9e8/2.jpg)
+![Rihia10100U](https://github.com/Rihia10100U/Rihia10100U/blob/0478843035433b2ff1989dc542d2bd3658157020/banner.png)
 
 <!--
 **Rihia10100U/Rihia10100U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
